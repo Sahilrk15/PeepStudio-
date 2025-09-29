@@ -1,10 +1,3 @@
-# [PeepStudio](https://peepstudio.vercel.app/) - Generate your own peeps avatars !
-
-<kbd>
-    <a href="https://peepstudio.vercel.app">
-    <img alt="PeepStudio is an open source tool that lets you generate random peeps avatars in seconds." src="https://peepstudio.vercel.app/og.png">
-    </a>
-</kbd>
 
 ### PeepStudio is an open source tool that lets you generate random peeps avatars in seconds.
 
@@ -30,7 +23,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/sujjeee/peepstudio.git
+https://github.com/Sahilrk15/PeepStudio-.git
 ```
 
 2. Install dependencies using yarn
@@ -47,6 +40,3 @@ yarn dev
 
 ## Credits 🙏
 PeepStudio is inspired by <a href="https://peepslab.com">PeepsLab</a> and  Artwork by <a href="https://openpeeps.com">Pablo Stanley</a>.
-
-## Demo 👀
-Try demo <a href="https://peepstudio.vercel.app">PeepStudio</a>
